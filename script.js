@@ -37,7 +37,7 @@ themeButton.addEventListener("click", function () {
 
 // Button 3: randomly changes text
 const surprises = [
-  "A tree has been notified.",
+  
   "You have achieved maximum digital greenness.",
   "The website has ordered another font.",
   "Congratulations! Nothing useful happened.",
